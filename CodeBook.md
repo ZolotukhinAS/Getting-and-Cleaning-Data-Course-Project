@@ -18,7 +18,7 @@ You should create one R script called run_analysis.R that does the following.
 ##Result datasets description
 
 Data located in txt file in required format:<return>
-*data_mean.txt	-	**Combined mean values dataset**. Contains mean values for group of subject|activity from data.txt.
+*data_mean.txt	-	Combined mean values dataset. Contains mean values for group of subject|activity from data.txt.
 
 
 
